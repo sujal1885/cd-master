@@ -1,0 +1,10 @@
+John Doe, TCS, Male, 9.2, CSE, 10.5, john.doe@example.com, 1234567890
+Jane Smith, Infosys, Female, 8.5, IT, 9.8, jane.smith@example.com, 2345678901
+Michael Johnson, Wipro, Male, 8.9, EC, 9.7, michael.johnson@example.com, 3456789012
+Emily Brown, Accenture, Female, 9.0, CSE, 10.2, emily.brown@example.com, 4567890123
+David Lee, Informatica, Male, 9.5, IT, 10.8, david.lee@example.com, 5678901234
+Sarah Miller, TCS, Female, 9.3, EC, 11.0, sarah.miller@example.com, 6789012345
+Kevin Davis, Infosys, Male, 8.7, CSE, 9.6, kevin.davis@example.com, 7890123456
+Lisa Taylor, Wipro, Female, 8.8, IT, 9.9, lisa.taylor@example.com, 8901234567
+Steven Wilson, Accenture, Male, 9.1, EC, 10.5, steven.wilson@example.com, 9012345678
+Rachel Garcia, Informatica, Female, 9.6, CSE, 10.9, rachel.garcia@example.com, 0123456789
